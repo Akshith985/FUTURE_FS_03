@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Writer's Cafe",
-  description: "By Akshith Anand,
+  description: "By Akshith Anand",
 };
 
 export default function RootLayout({
